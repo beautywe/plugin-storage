@@ -1,17 +1,8 @@
 # 介绍
 
-## Version
-[![NPM Version](https://img.shields.io/npm/v/@beautywe/plugin-storage.svg)](https://www.npmjs.com/package/@beautywe/plugin-storage) [![NPM Downloads](https://img.shields.io/npm/dm/@beautywe/plugin-storage.svg)](https://www.npmjs.com/package/@beautywe/plugin-storage) ![npm bundle size](https://img.shields.io/bundlephobia/minzip/@beautywe/plugin-storage.svg)
+[![CircleCI](https://circleci.com/gh/beautywe/beautywe-plugin-storage/tree/master.svg?style=svg)](https://circleci.com/gh/beautywe/beautywe-plugin-storage/tree/master)
 
-## Unit test coverage
-```
-------------|----------|----------|----------|----------|-------------------|
-File        |  % Stmts | % Branch |  % Funcs |  % Lines | Uncovered Line #s |
-------------|----------|----------|----------|----------|-------------------|
-All files   |    93.55 |    92.31 |      100 |    93.33 |                   |
- storage.js |    93.55 |    92.31 |      100 |    93.33 |             67,68 |
-------------|----------|----------|----------|----------|-------------------|
-```
+[![NPM Version](https://img.shields.io/npm/v/@beautywe/plugin-storage.svg)](https://www.npmjs.com/package/@beautywe/plugin-storage) [![NPM Downloads](https://img.shields.io/npm/dm/@beautywe/plugin-storage.svg)](https://www.npmjs.com/package/@beautywe/plugin-storage) ![npm bundle size](https://img.shields.io/bundlephobia/minzip/@beautywe/plugin-storage.svg)[![Coverage Status](https://coveralls.io/repos/github/beautywe/beautywe-plugin-storage/badge.svg)](https://coveralls.io/github/beautywe/beautywe-plugin-storage)
 
 ## Feature
 1. 过期控制
