@@ -20,7 +20,7 @@ All files   |    93.55 |    92.31 |      100 |    93.33 |                   |
 # 安装
 
 ```
-$ ynpm i @beautywe/plugin-storage
+$ npm i @beautywe/plugin-storage
 ```
 
 ```javascript
