@@ -1,6 +1,6 @@
 {
   "name": "@beautywe/plugin-storage",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Storage plugin for beautywe",
   "main": "dist/storage.js",
   "scripts": {
@@ -40,7 +40,7 @@
     "validate-commit-msg": "^2.14.0"
   },
   "dependencies": {
-    "@beautywe/core": "^0.0.2"
+    "@beautywe/core": "^1.0.0"
   },
   "config": {
     "commitizen": {
@@ -61,11 +61,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/beautywe/beautywe-plugin-storage.git"
+    "url": "git+https://github.com/beautywe/plugin-storage.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/beautywe/beautywe-plugin-storage/issues"
+    "url": "https://github.com/beautywe/plugin-storage/issues"
   },
-  "homepage": "https://github.com/beautywe/beautywe-plugin-storage#readme"
+  "homepage": "https://github.com/beautywe/plugin-storage#readme"
 }
